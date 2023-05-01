@@ -36,7 +36,7 @@ python any_data_visualizer.py
 
 ## Requirements
 
-Here's the `requirements.txt` file content based on the provided imports:
+Here's the `requirements`
 
 ```
 pandas==1.3.4
@@ -57,10 +57,6 @@ pip install -r requirements.txt
 3. Choose the desired chart type from the dropdown menu (line, bar, pie, or scatter).
 4. Enter a title for the chart in the "Enter chart title" field.
 5. Click on the "Create Plot" button to generate the chart.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
