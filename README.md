@@ -18,9 +18,7 @@ cd Any-Data-visualizer
 
 3. Install the required dependencies:
 ```
-pandas==1.3.4
-matplotlib==3.5.0
-tkinter==8.6.11
+pip install pandas==1.3.4 matplotlib==3.5.0
 ```
 
 4. Run the data visualizer:
