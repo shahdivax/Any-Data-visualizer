@@ -17,8 +17,12 @@ cd Any-Data-visualizer
 ```
 
 3. Install the required dependencies:
+Here's the `requirements`
+
 ```
-pip install -r requirements.txt
+pandas==1.3.4
+matplotlib==3.5.0
+tkinter==8.6.11
 ```
 
 4. Run the data visualizer:
@@ -33,22 +37,6 @@ python any_data_visualizer.py
 - Load data from CSV files
 - Customize axis labels and chart title
 - Versatile and adaptable to different datasets
-
-## Requirements
-
-Here's the `requirements`
-
-```
-pandas==1.3.4
-matplotlib==3.5.0
-tkinter==8.6.11
-```
-
-To install the required dependencies, you can run:
-
-```
-pip install -r requirements.txt
-```
 
 ## Usage
 
