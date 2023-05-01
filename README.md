@@ -16,8 +16,8 @@ git clone https://github.com/shahdivax/Any-Data-visualizer.git
 cd Any-Data-visualizer
 ```
 
-3. Install the required dependencies:
-Here's the `requirements`
+3. Install the required dependencies:<br>
+  Here's the `requirements`
 
 ```
 pandas==1.3.4
